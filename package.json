@@ -1,0 +1,26 @@
+{
+  "name": "generator-spotify",
+  "version": "0.1.0",
+  "description": "Yeoman Generator for Managing Spotify Playlists",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yo",
+    "spotify"
+  ],
+  "author": "Evan Simpson",
+  "license": "MIT",
+  "dependencies": {
+    "es6-promise": "^3.0.2",
+    "moment": "^2.11.1",
+    "nedb": "^1.7.1",
+    "open": "0.0.5",
+    "superagent": "^1.5.0",
+    "yeoman-generator": "^0.21.1"
+  }
+}
